@@ -31,3 +31,5 @@ PowerPoint, Word documents, and ZIP files can be opened locally after downloadin
 For CS 499 Milestone Two, I enhanced this artifact for the Software Design and Engineering category. The enhancement adds a secure software design plan that includes secure login logic, role-based access control, input validation, safer error handling, security logging, and a deployment security checklist.
 
 This enhancement builds on the original CS 405 Secure Coding Portfolio by showing how secure coding standards can be applied to a practical software design before release.
+
+The file CS499_SecureDesignEnhancement.cpp was added as the enhanced code artifact for Milestone Two. This C++ file demonstrates secure login logic, role-based access control, input validation, safer error handling, security logging, and a deployment security checklist. It supports the Software Design and Engineering category by turning the secure coding policy concepts into a practical design-focused code example.
