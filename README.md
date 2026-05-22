@@ -25,3 +25,9 @@ A written reflection that covers what I learned in CS-405, how my skills have gr
 
 Each file can be downloaded directly from this repository.
 PowerPoint, Word documents, and ZIP files can be opened locally after downloading.
+
+# CS 499 Milestone Two Enhancement
+
+For CS 499 Milestone Two, I enhanced this artifact for the Software Design and Engineering category. The enhancement adds a secure software design plan that includes secure login logic, role-based access control, input validation, safer error handling, security logging, and a deployment security checklist.
+
+This enhancement builds on the original CS 405 Secure Coding Portfolio by showing how secure coding standards can be applied to a practical software design before release.
