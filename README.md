@@ -33,3 +33,9 @@ For CS 499 Milestone Two, I enhanced this artifact for the Software Design and E
 This enhancement builds on the original CS 405 Secure Coding Portfolio by showing how secure coding standards can be applied to a practical software design before release.
 
 The file CS499_SecureDesignEnhancement.cpp was added as the enhanced code artifact for Milestone Two. This C++ file demonstrates secure login logic, role-based access control, input validation, safer error handling, security logging, and a deployment security checklist. It supports the Software Design and Engineering category by turning the secure coding policy concepts into a practical design-focused code example.
+
+# CS 499 Milestone Three Enhancement
+
+For CS 499 Milestone Three, I enhanced this artifact for the Algorithms and Data Structures category. The enhancement builds on the original CS405 Module One Overflow project by adding structured security logic that uses input validation, failed login counters, risk scoring, decision-based checks, temporary account lockout logic, and a security event log.
+
+The file CS499_AlgorithmSecurityEnhancement.cpp was added as the enhanced code artifact for Milestone Three. This C++ file demonstrates how algorithms and data structures can be used to detect unsafe input, track suspicious behavior, calculate risk, update account state, and log security events. It supports the Algorithms and Data Structures category by showing clear control flow, structured data storage, and decision-making logic for a security-focused software problem.
